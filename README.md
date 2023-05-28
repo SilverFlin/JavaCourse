@@ -1,2 +1,2 @@
 # JavaCourse
-Java Exercises from the Tim Buchalka Course
+Java Exercises from different courses
